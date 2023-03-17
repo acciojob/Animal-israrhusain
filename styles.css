@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	height:700px;
+	width:700px;
+	background-color:grey;
+	text-align:center;
+	color:white;
+	border-left:70px solid black;
+	border-right:70px solid black;
+}
+#camel{
+	width:200px;
+	height:150px;
+	border-radius:10px;
+	padding-right:470px;
+}
+#ch{
+	width:200px;
+	height:150px;
+	border-radius:10px;
+	margin-bottom:px;
+	
+	
+	padding-right:45px;
+	margin-left:0px;
+	
+}
+	
