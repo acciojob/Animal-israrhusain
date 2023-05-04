@@ -1,28 +1,33 @@
 /*  your css code here. If applicable */
 #animal-photos{
-	height:700px;
+	height:560px;
 	width:700px;
-	background-color:grey;
+	background-color:#444444;
 	text-align:center;
 	color:white;
-	border-left:70px solid black;
-	border-right:70px solid black;
+	border-left:70px solid #353535;
+	border-right:70px solid #353535;
+	
+	
 }
-#camel{
+.container{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+   justify-content:space-around; 
+	
+}
+.row{
+	display:flex;
+	column-gap:5px;
+	margin-bottom:10px;
+	gap:10px;
+}
+img{
 	width:200px;
 	height:150px;
 	border-radius:10px;
-	padding-right:470px;
-}
-#ch{
-	width:200px;
-	height:150px;
-	border-radius:10px;
-	margin-bottom:px;
-	
-	
-	padding-right:45px;
-	margin-left:0px;
+
 	
 }
 	
