@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
 #animal-photos{
-	height:560px;
-	width:700px;
+	
 	background-color:#444444;
 	text-align:center;
 	color:white;
 	border-left:70px solid #353535;
 	border-right:70px solid #353535;
 	border-radius:10px;
-	
+	height:560px;
+	width:700px;
 }
 
 #photo-heading{
