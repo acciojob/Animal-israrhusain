@@ -7,8 +7,12 @@
 	color:white;
 	border-left:70px solid #353535;
 	border-right:70px solid #353535;
+	border-radius:10px;
 	
-	
+}
+
+#photo-heading{
+	padding-top:10px;
 }
 .container{
 	display:flex;
